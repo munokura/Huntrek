@@ -1,5 +1,7 @@
 # Lootrek
 
+![Lootrek Title Screen](screenshots/title_en.png)
+
 **Lootrek** is a casual, loot-focused mini RPG currently in development with RPG Maker MZ.  
 Explore a randomized dungeon, defeat enemies, and collect powerful items in a bite-sized adventure.  
 Designed for players who enjoy light hack-and-slash gameplay and surprise item drops.

@@ -2,9 +2,15 @@
 
 ![Huntrek Title Screen](screenshots/title_en.png)
 
-**Huntrek** is a casual, loot-focused mini RPG currently in development with RPG Maker MZ.  
-Explore a randomized dungeon, defeat enemies, and collect powerful items in a bite-sized adventure.  
-Designed for players who enjoy light hack-and-slash gameplay and surprise item drops.
+## About the Game
+A stealth-oriented RPG where you explore procedural maps, ambush enemies, and collect random loot to power up your party.
+
+## Current Status
+This project is still in early development. Expect rapid changes and experiments.
+
+## Related Links
+- Play the prototype on [itch.io](https://munokura.itch.io/huntrek)
+- Devlog and screenshots are available on the itch.io page.
 
 ---
 

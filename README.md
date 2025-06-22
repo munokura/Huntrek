@@ -1,6 +1,6 @@
 # Huntrek
 
-![Huntrek Title Screen](screenshots/title_en.png)
+![Huntrek Title Screen](screenshots/title_en-v2.png)
 
 ## About the Game
 A stealth-oriented RPG where you explore procedural maps, ambush enemies, and collect random loot to power up your party.
